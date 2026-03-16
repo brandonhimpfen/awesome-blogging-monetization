@@ -101,6 +101,7 @@
 - **[WooCommerce](https://woocommerce.com/)** - An open-source e-commerce plugin for WordPress.
 - **[OpenCart](https://www.opencart.com/)** - A lightweight open-source e-commerce platform.
 - **[Ghost](https://ghost.org/)** - A blogging platform with built-in monetization options.
+- **[JustBlogged](https://justblogged.com/)** - A no-setup blogging platform with built-in SEO. Free forever, Pro at $9/mo.
 - **[Hugo](https://gohugo.io/)** - A static site generator with e-commerce integration options.
 - **[Matomo](https://matomo.org/)** - An open-source analytics platform for tracking blog performance.
 
