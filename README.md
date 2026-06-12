@@ -63,6 +63,7 @@
 - **[WooCommerce](https://woocommerce.com/)** - An e-commerce plugin for WordPress blogs.
 - **[Shopify](https://www.shopify.com/)** - A platform for creating an online store to sell products.
 - **[SendOwl](https://www.sendowl.com/)** - A platform for selling digital products directly to your audience.
+- **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Membership and Subscription Platforms
 
