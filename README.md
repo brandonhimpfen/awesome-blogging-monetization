@@ -108,6 +108,7 @@
 ## Educational Resources
 
 - **[Coursera: Blog Monetization](https://www.coursera.org/)** - Online courses for learning monetization strategies.
+- **[Creator YouTube Starter](https://creator.taoliapp.com/)** - Chinese-language YouTube starter guide: account setup, policy boundaries, and monetization paths (official sources preferred).
 - **[ProBlogger Guide](https://problogger.com/start-here/)** - Tutorials and guides for blogging as a business.
 - **[HubSpot Academy](https://academy.hubspot.com/)** - Free courses on inbound marketing and content monetization.
 - **[YouTube Channels](https://www.youtube.com/)** - Channels like Neil Patel and Income School for blogging tips.
